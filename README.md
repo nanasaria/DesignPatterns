@@ -1,6 +1,7 @@
 <h1>Factory Method</h1>
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Factory_Method_UML_class_diagram.png/400px-Factory_Method_UML_class_diagram.png" />
+<br>
+<img height="250" align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Factory_Method_UML_class_diagram.png/400px-Factory_Method_UML_class_diagram.png" />
 
 <p><b>Classe Car</b> é onde se define o modelo, marca e a categoria do carro, ou seja, seus atributos principais. Essa classe é onde acontece o encapsulamento da criação de objetos.</p>
 <p><b>Classe CarCreator</b> é a classe base onde se define um método fábrica, nesse caso o buildCar(). </p>
