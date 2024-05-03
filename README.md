@@ -7,4 +7,16 @@
 Em programação, um principio é uma regra que vai servir de base para diversos cenários.</p>
 
 <h1>O Que é o Princípio SOLID?</h1>
+
+<h3>S - SINGLE REPONSIBILITY PRINCIPLE</h3>
+<p>Esse princípio prega que uma classe deve ter apenas uma razão para ser alterada, ou seja, não se pode colocar métodos que não sejam referentes à classe principal. Basicamente, dividir em mais classes.</p>
+<h3>O - OPEN/CLOSED PRINCIPLE</h3>
+<p>Esse princípio é aplicado a uma entidade (classe, módulo ou função) onde diz que a entidade deve estar aberta para uma extensão e fechada para modificação. Cada vez mais entidades menores, mais objetivas e de fácil extensão.</p>
+<h3>L - LISKOV SUBSTITUTION PRINCIPLE </h3>
+<p>Esse princípio prega que que uma classe derivada pode e deve ser substituível por sua classe base sem alterar a funcionalidade.</p>
+<h3>I - INTERFACE SEGREGATION PRINCIPLE </h3>
+<p></p>
+<h3>D - DEPENDENCY INVERSION PRINCIPLE </h3>
+<p></p>
+
 <img src="https://www.comerline.es/wp-content/uploads/2022/04/1XOMTPWTpDLypkp079p9XXg.png" />
