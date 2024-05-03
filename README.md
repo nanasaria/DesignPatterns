@@ -12,4 +12,3 @@
 <p><b>Classe VolksConcreteProduct</b> é uma subclasse que extende da classe carro, é onde se cria o objeto “Volks”. Subclasse que instancia a classe CarCreator e retorna o ConcreteProductGol.</p>
 
 <br>
-<img align="center" height="300" src="https://i.pinimg.com/736x/d3/e9/20/d3e920eda23e9803319f88d138c2541d.jpg" />
