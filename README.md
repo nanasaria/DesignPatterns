@@ -15,8 +15,12 @@ Em programação, um principio é uma regra que vai servir de base para diversos
 <h3>L - LISKOV SUBSTITUTION PRINCIPLE </h3>
 <p>Esse princípio prega que que uma classe derivada pode e deve ser substituível por sua classe base sem alterar a funcionalidade.</p>
 <h3>I - INTERFACE SEGREGATION PRINCIPLE </h3>
-<p></p>
+<p>Age como a Single Responsibility Principle, porém com as interfaces, dividindo elas em interfaces menores.</p>
 <h3>D - DEPENDENCY INVERSION PRINCIPLE </h3>
-<p></p>
+<p>Com esse princípio, é possível criar módulos que não estão ligados. 
+Na inversão de dependência, os módulos de alto nível não devem depender de módulos de baixo nível e ambos dependem de abstrações.</p>
+<h4>Módulo de alto nível x módulo de baixo nível</h4>
+<p>Módulo de alto nível tem muito a ver com as regras de negócio da aplicação, o que o software foi criado para fazer.
+<br>Módulo de baixo nível são as tarefas internas.</p>
 
 <img src="https://www.comerline.es/wp-content/uploads/2022/04/1XOMTPWTpDLypkp079p9XXg.png" />
