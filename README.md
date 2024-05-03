@@ -1,5 +1,5 @@
 <h1>O que é Design Patterns?</h1>
-<p>São soluções para um problema dentro de um contexto e possui vantagens e desafios para serem implantados.</p>
+<p><b>São soluções para um problema dentro de um contexto que possui vantagens e desafios para serem implantados.</b></p>
 
 <h2>O que é um princípio em programação?</h2>
 <p>Princípio é uma verdade básica imutável que rege regras, leis e aplicações. 
